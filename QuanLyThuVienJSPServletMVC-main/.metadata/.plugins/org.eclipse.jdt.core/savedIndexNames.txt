@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Dell\Downloads\QuanLyThuVienJSPServletMVC-main\.metadata\.plugins\org.eclipse.jdt.core
+2370221251.index
+1865797976.index
+2022858932.index
+3450600122.index
+598714977.index
